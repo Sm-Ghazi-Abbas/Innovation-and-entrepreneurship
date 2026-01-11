@@ -36,9 +36,5 @@ Unlike public ride-hailing apps, Uni-Pool requires strictly verified student ide
 - [ ] Phase 4: Pilot Launch at [University Name]
 
 ## 👥 Team
-- **[Your Name]** - Tech & Development
-- **[Team Member Name]** - Marketing & Research
-- **[Team Member Name]** - Operations
-
 ---
 *This project was created for the Innovation and Entrepreneurship course.*
